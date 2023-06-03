@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "obsidiantags"
+name = "obsidian2anki"
 version = "0.1.0"
 description = ""
 authors = ["Oleksandr Podze <dasdeg@gmail.com>"]
